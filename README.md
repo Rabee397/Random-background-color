@@ -1,2 +1,2 @@
 # Random-background-color
-JavaScript Project
+Simple JavaScript Project : when you click the button the background-color of the body will change randomly.
